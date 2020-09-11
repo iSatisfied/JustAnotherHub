@@ -1,0 +1,14 @@
+name: JustAnotherHub
+author: iSatisfied
+version: 0.0.1
+main: me.satisdev.justanotherhub.JustAnotherHub
+depend: [JustAnotherAPI]
+commands:
+  fly:
+    usage: /<command> [player]
+    aliases: []
+    description: Allows a player flight
+  vanish:
+    usage: /<command> [player]
+    aliases: []
+    description: Vanishes Player
